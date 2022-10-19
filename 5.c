@@ -5,7 +5,7 @@ int  x;
 printf("enter a three digit number \n");
 scanf("%d", &x);
 
-if((101<=x) && (x<=999))
+if((100<=x) && (x<=999))
 printf("three digit number\n");
 
 else
